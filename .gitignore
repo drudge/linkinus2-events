@@ -10,6 +10,7 @@
 build
  
 *.pbxuser
+*.mode1
 *.mode1v3
 *.mode2v3
 !default.pbxuser
